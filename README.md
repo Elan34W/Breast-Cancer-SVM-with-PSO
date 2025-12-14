@@ -1,7 +1,9 @@
 Cara Run
-"git pull https://github.com/Elan34W/Breast-Cancer-SVM-with-PSO.git" atau langsung download
-kemudian "pip install -r requirements.txt" jika ada library yang belum ke install
+```
+git pull https://github.com/Elan34W/Breast-Cancer-SVM-with-PSO.git //atau langsung download
+"pip install -r requirements.txt" //jika ada library yang belum ke install
+```
 Run kode
 
 
-Note : "pindah Program.ipynb ke folder Main jadi file baru"
+Note : "pindah Program.ipynb ke folder "Main" jadi file baru"
